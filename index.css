@@ -1,22 +1,23 @@
-body{
-    background-color:peru;
-  }
+body {
+  background-color: peru;
+}
 
 .btn {
   cursor: pointer;
 }
 body {
-    color : #34495e;
+  color: #34495e;
 }
 
 .clicked {
-  color : #7f8c8d;
+  color: #7f8c8d;
 }
 
-.form,.greetings{
-  display : none;
+.form,
+.greetings {
+  display: none;
 }
 
-.showing{
-  display : block;
+.showing {
+  display: block;
 }
