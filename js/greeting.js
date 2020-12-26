@@ -8,7 +8,7 @@ function printInput(value) {
   nameInput.innerHTML = "";
   const title = document.createElement("span");
   title.className = "name__title";
-  title.innerText = `Hello ${value}`;
+  title.innerText = `Hello ${value} 😊`;
   console.log(value);
   nameInput.appendChild(title);
 }
